@@ -1,0 +1,15 @@
+---
+generation: 1
+last_run_time: 1321737002.55026
+tests:
+  basic.t:
+    elapsed: 0.420773029327393
+    gen: 1
+    last_pass_time: 1321737002.54923
+    last_result: 0
+    last_run_time: 1321737002.54923
+    last_todo: 0
+    seq: 1
+    total_passes: 1
+version: 1
+...
