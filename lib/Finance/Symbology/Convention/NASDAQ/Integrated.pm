@@ -3,6 +3,8 @@ package Finance::Symbology::Convention::NASDAQ::Integrated;
 use strict;
 use warnings;
 
+our $VERSION = 0.2;
+
 my $template = {
     'Preferred' => {
         template => '-',

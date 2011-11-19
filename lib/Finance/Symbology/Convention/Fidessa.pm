@@ -3,6 +3,8 @@ package Finance::Symbology::Convention::Fidessa;
 use strict;
 use warnings;
 
+our $VERSION = 0.2;
+
 my $template = {
     'Preferred' => {
         pattern => qr/^([A-Z]+)(-)$/,

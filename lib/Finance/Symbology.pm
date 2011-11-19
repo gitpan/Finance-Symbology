@@ -10,7 +10,7 @@ use Finance::Symbology::Convention::NASDAQ::Integrated;
 
 BEGIN {
 
-    our $VERSION = 0.1;
+    our $VERSION = 0.2;
 
 }
 
